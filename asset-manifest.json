@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beatbox/static/css/main.ec6a43e9.css",
+    "main.js": "/beatbox/static/js/main.e11bd709.js",
+    "static/media/login-logo.jpg": "/beatbox/static/media/login-logo.80375769ea6bd3b828a8.jpg",
+    "static/media/profile-img.jpg": "/beatbox/static/media/profile-img.c3f09d407dd339a6f1ff.jpg",
+    "index.html": "/beatbox/index.html",
+    "main.ec6a43e9.css.map": "/beatbox/static/css/main.ec6a43e9.css.map",
+    "main.e11bd709.js.map": "/beatbox/static/js/main.e11bd709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6a43e9.css",
+    "static/js/main.e11bd709.js"
+  ]
+}
